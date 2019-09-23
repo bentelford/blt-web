@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://staging.benjamintelford.com"
 title = "Ben Telford Visuals"
 theme = "hugo-universal-theme"
 themesDir = "themes"
