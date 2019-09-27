@@ -1,5 +1,5 @@
 baseurl = "https://staging.benjamintelford.com/"
-title = "Ben Telford Visuals"
+title = "Ben Telford"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "en-us"
