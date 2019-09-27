@@ -102,12 +102,12 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+        <br>Ottawa
+        <br>Ontario
         <br>
-        <strong>Great Britain</strong>
+        <br>
+        <br>
+        <strong>Canada</strong>
       </p>
       """
     #latitude = "-12.043333"
