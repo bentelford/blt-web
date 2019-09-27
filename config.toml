@@ -1,5 +1,5 @@
 baseurl = "https://staging.benjamintelford.com/"
-title = "Ben Telford"
+title = "Ben Telford Visuals"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "en-us"
@@ -24,9 +24,9 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier="blog"
-    name = "Blog"
-    url  = "/blog/"
+    identifier="portfolio"
+    name = "Portfolio"
+    url  = "/portfolio/"
     weight = 2
 
 [[menu.main]]
@@ -64,7 +64,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:visuals@benjamintelford.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
