@@ -46,7 +46,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Instagram"
-    url = "http://facebook.com"
+    url = "https://www.instagram.com/bentelfordvisuals/"
     pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
