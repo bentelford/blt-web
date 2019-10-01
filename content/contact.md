@@ -3,8 +3,7 @@ title = "Contact"
 id = "contact"
 +++
 
-Are you looking to have Ben Telford Visuals involvde with your next visual project? 
-We're happy to answer any questions you may have regarding services, pricing, and bookings!
+Are you looking to have Ben Telford Visuals involved with your next visual project? We're happy to answer any questions you may have regarding services, pricing, and bookings. Reach us on email to discuss your project!
 <br>
 <br>
 ####  visuals@benjamintelford.com
