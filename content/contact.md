@@ -5,9 +5,10 @@ id = "contact"
 
 # Let's get started!    
 
-Are you looking to have Ben Telford Visuals create your next visual project?   
+Are you looking to have Ben Telford Visuals create your next visual project? We're happy to answer any questions you may have regarding services, pricing, bookings and more!
 
-To book a shoot or inquire about our services, please send us an email! 
+### All inquiries go through email! 
+#### Visuals@BenjaminTelford.com
 
 Refer to the Booking Guide for a list of necessary information when submitting a booking request.
 
