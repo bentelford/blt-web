@@ -160,7 +160,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "Our customer's satisfaction is of the utmost importance to us. Have a look at what our clients have said about us."
+    subtitle = "Our customer's satisfaction is of the utmost importance to us. Have a look at what our clients have to say."
 
 [params.see_more]
     enable = true
