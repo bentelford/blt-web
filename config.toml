@@ -102,8 +102,8 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p><strong>Ben Telford Visuals</strong>
-        <br>343-204-1236
         <br>visuals@benjamintelford.com
+        <br>343-204-1236
         <br>
         <br>
         <br>
@@ -120,7 +120,7 @@ paginate = 10
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs"></p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse">343<i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       """
