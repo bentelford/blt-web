@@ -3,8 +3,6 @@ title = "Contact"
 id = "contact"
 +++
 
-## Let's get started!    
-
 Are you looking to have Ben Telford Visuals create your next visual project? We're happy to answer any questions you may have regarding services, pricing, and bookings via email!
 
 ####  visuals@benjamintelford.com
