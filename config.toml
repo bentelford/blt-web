@@ -120,7 +120,7 @@ paginate = 10
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs"></p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse">343<i class="fa fa-phone"></i></a>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone">3432041236</i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       """
