@@ -31,9 +31,15 @@ paginate = 10
 
 [[menu.main]]
     identifier = "faq"
-    name = "FAQ"
+    name = "About us"
     url  = "/faq/"
     weight = 3
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
 
 [[menu.main]]
     identifier = "contact"
