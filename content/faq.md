@@ -4,10 +4,6 @@ description = "About us"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-
-
-## WHO ARE WE?
-
 Ben Telford Visuals was founded in June of 2017, beginning as a small-scale production company focusing solely on music videos for artists in the Ottawa area. In the 2+ years since then, we have gone on to produce commercials, short films, documentaries, event coverages, interviews, and music videos for artists and businesses across Ontario. These projects currently amass to a total of over 500k youtube views.
 <br>
 <img align="left"  img src="https://prep.benjamintelford.com/img/bt-headshot-scaled.jpg" style="width:170px; height:220px; padding:7px"  title="White flower" alt="Flower">
