@@ -164,7 +164,7 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fas fa-file-code-o"
+    icon = "fa fa-film"
     #title = "Demo Reel"
     subtitle = "High quality direction and cinematography is the biggest priority at Ben Telford Visuals."
     link_url = "#"
