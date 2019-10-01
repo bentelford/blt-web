@@ -62,7 +62,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope-square'></i>"
 
 [params]
-    viewMorePostLink = "/portfolio/"
+    viewMorePostLink = "/Services/"
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
@@ -127,9 +127,9 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    #categories = true
+    #tags = true
+    #search = true
 
 [params.carousel]
     enable = true
