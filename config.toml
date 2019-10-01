@@ -36,9 +36,9 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    identifier = ""
+    identifier = "DemoReel"
     name = "Demo Reel"
-    url  = ""
+    url  = "demoreel"
     weight = 4
 
 [[menu.main]]
