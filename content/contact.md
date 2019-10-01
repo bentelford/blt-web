@@ -12,4 +12,4 @@ Please allow at least 48 hours for an inquiry response.
 <br>
 <br>
 <br>
-<a href="https://prep.benjamintelford.com/"><img src="https://prep.benjamintelford.com/img/logo.png" style="width:82px; height:86px" title="White flower" alt="Flower"></a>
+<a href="https://prep.benjamintelford.com/"><img src="https://prep.benjamintelford.com/img/logo.png" style="width:187px; height:42px" title="White flower" alt="Flower"></a>
