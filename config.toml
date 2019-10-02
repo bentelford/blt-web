@@ -23,11 +23,11 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    identifier="blog"
-    name = "Services"
-    url  = "/blog/"
-    weight = 2
+#[[menu.main]]
+#    identifier="blog"
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 2
 
 [[menu.main]]
     identifier = "faq"

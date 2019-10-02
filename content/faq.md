@@ -18,6 +18,7 @@ Your life is already a movie, we just capture it for you.
 <br>
 <br>
 insert btv commercial here
+<a href="http://www.yahoo.com">Event Coverage</a>
 <br>
 <br>
 <br>
