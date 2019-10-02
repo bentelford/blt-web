@@ -167,7 +167,7 @@ paginate = 10
     icon = "fa fa-film"
     #title = "Demo Reel"
     subtitle = "At Ben Telford Visuals, each and every production is characterized by direction and cinematography of the highest quality."
-    link_url = "#"
+    link_url = "/demoreel/"
     link_text = "View Demo Reel"
 
 [params.clients]

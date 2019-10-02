@@ -11,6 +11,7 @@ Please allow at least 48 hours for an inquiry response.
 <br>
 <br>
 <br>
+<p align="center">Not sure what to include in your email?
 <br>
-insert graphic here regarding necessary information when iniquring about a booking
-<a href="https://prep.benjamintelford.com/"><img src="https://prep.benjamintelford.com/img/logo.png" style="width:187px; height:42px" title="White flower" alt="Flower"></a>
+Click <a href="http://www.google.com">**HERE**</a> for our Bookings & Inquiries Guide</p>
+
