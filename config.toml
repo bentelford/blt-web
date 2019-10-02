@@ -99,7 +99,7 @@ paginate = 10
     #email = "visuals@benjamintelford.com"
     #contact_form_ajax = false
 
-    #about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Ben Telford Visuals is a video production company based out of Ottawa, Ontario. We specialize in music videos, film production, and corporate videography.</p>"
     #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
