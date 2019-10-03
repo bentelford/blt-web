@@ -1,10 +1,10 @@
-#weight: 2
-#title: "Promotional Content"
-#description: >
-#  <ul class="list-style-none">
-#     <li>Commercials</li>
-#     <li>Social media content</li>
-#     <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-#     <li>+ 11 extra pages showing template features</li>
-#   </ul>
-#image: "img/carousel/template-mac.png"
+weight: 1
+title: "instagram"
+description: >
+  <ul class="list-style-none">
+     <li>Keep up to date with us on instagram. Previews, Tutorials, and Exclusive Behind the scenes content.</li>
+     <li></li>
+     <li></li>
+     <li></li>
+   </ul>
+image: "img/carousel/template-mac.png"
