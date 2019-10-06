@@ -47,6 +47,12 @@ paginate = 10
     url  = "/contact/"
     weight = 5
 
+[[menu.main]]
+    identifier = "Services"
+    name = "Services"
+    url  = "/services/"
+    weight = 5
+
 # Top bar social links menu
 
 [[menu.topbar]]
