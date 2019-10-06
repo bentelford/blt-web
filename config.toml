@@ -33,25 +33,25 @@ paginate = 10
     identifier = "aboutus"
     name = "About us"
     url  = "/aboutus/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     identifier = "DemoReel"
     name = "Demo Reel"
     url  = "/demoreel/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     identifier = "Services"
     name = "Services"
     url  = "/services/"
-    weight = 5
+    weight = 1
 
 # Top bar social links menu
 
