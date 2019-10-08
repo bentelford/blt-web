@@ -15,15 +15,6 @@ title="Juic3boy - Cornerstore" alt="Cornerstore"></a>
 <a href="https://www.youtube.com/watch?v=Ko7WfV_g4oA"><img src= "https://prep.benjamintelford.com/img/jacob.png" style="width:320px; height:188px; padding:3px"  title="c4bo - Mundo Apagado" alt="Mundo Apagado"></a>
 <br>
 
-## Corporate Videography
-Commercials, Instructional Videos, Promotions, and more! Now is the time to elevate your company’s online presence.
-<br>
-
-## Films & Documentaries
-Do you have a story to tell? Let us help you capture it! From screenwriting, to direction, to cinematography, to post production, we’ve got you covered!
-<br>
-<a href="https://www.youtube.com/watch?v=4oW4tG7dreU"><img src= "https://prep.benjamintelford.com/img/youngsoldier.png" style="width:320px; height:188px; padding:3px"  title="Young Soldier" alt="Young Soldier"></a>
-
 ## Event Coverage
 Weddings, Parties, Shows, and everything in between. Let us capture your most precious moments!
 <br>
@@ -35,6 +26,16 @@ Promote your brand with engaging visuals which complement your custom social med
 <br>
 <a href="https://www.youtube.com/watch?v=-PWDvgGhxos&feature=youtu.be"><img src= "https://prep.benjamintelford.com/img/barber.png" style="width:320px; height:188px; padding:3px"  title="Barbershop" alt="Barbershop"></a>
 <a href="https://youtu.be/PzsIzx9wIjc"><img src= "https://prep.benjamintelford.com/img/babylon.png" style="width:320px; height:188px; padding:3px"  title="Grill House" alt="Grill House"></a>
+
+## Films & Documentaries
+Do you have a story to tell? Let us help you capture it! From screenwriting, to direction, to cinematography, to post production, we’ve got you covered!
+<br>
+<a href="https://www.youtube.com/watch?v=4oW4tG7dreU"><img src= "https://prep.benjamintelford.com/img/youngsoldier.png" style="width:320px; height:188px; padding:3px"  title="Young Soldier" alt="Young Soldier"></a>
+<a href="https://www.youtube.com/watch?v=g1_IuzkDxi4"><img src= "https://prep.benjamintelford.com/img/bossman.png" style="width:320px; height:188px; padding:3px"  title="Bossman Documentary" alt="Bossman Documentary"></a>
+
+## Corporate Videography
+Commercials, Instructional Videos, Promotions, and more! Now is the time to elevate your company’s online presence.
+<br>
 
 
 <br>
