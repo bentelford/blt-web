@@ -1,11 +1,13 @@
 +++
 title = "Services"
 description = "Services"
-keywords = ["FAQ","How do I","questions","what if"]
+keywords = ["services","music video","commercial","ottawa videography"]
 +++
 
-Ben Telford Visuals was founded in June of 2017, beginning as a small-scale production company focusing solely on music videos for artists in the Ottawa area. In the 2+ years since then
-
-<a href="https://prep.benjamintelford.com/"><img src="https://prep.benjamintelford.com/img/logo.png" style="width:187px; height:42px" title="White flower" alt="Flower"></a>
-
+Ben Telford Visuals provides a wide variety of visual services to optimize your online presence and help you or your business grow. Listed below are the main services we offer. If you don't see the service you're looking for below, don't hesitate to <a href="https://prep.benjamintelford.com/contact/">contact us</a>, as we're always interested in diversifying our portfolio.
+<br>
+<br>
+<br>
+<br>
+<br>
 <br><img align="left"  img src="https://prep.benjamintelford.com/img/bt-headshot-scaled.jpg" style="width:170px; height:220px; padding:7px"  title="White flower" alt="Flower">
