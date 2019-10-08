@@ -10,4 +10,5 @@ Ben Telford Visuals provides a wide variety of visual services to optimize your 
 <br>
 <br>
 <br>
-<br><img align="left"  img src="https://prep.benjamintelford.com/img/bt-headshot-scaled.jpg" style="width:170px; height:220px; padding:7px"  title="White flower" alt="Flower">
+<img align="left"  img src="https://prep.benjamintelford.com/img/feelit.png" style="width:320px; height:188px; padding:3px"  title="White flower" alt="Flower">
+<img align="left"  img src="https://prep.benjamintelford.com/img/cornerstore.png" style="width:320px; height:188px; padding:3px"  title="White flower" alt="Flower">
