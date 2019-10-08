@@ -10,4 +10,17 @@ Ben Telford Visuals provides a wide variety of visual services to optimize your 
 <br>
 <br>
 <br>
-<br><img align="left"  img src="https://prep.benjamintelford.com/img/bt-headshot-scaled.jpg" style="width:170px; height:220px; padding:7px"  title="White flower" alt="Flower">
+## Music Videos
+
+<br><img align="left"  img src="https://prep.benjamintelford.com/img/feelit.png" style="width:80x; height:47px; padding:7px"  title="White flower" alt="Flower">
+
+
+
+## Corporate Videography
+
+## Films & Documentaries
+
+## Event Coverage
+
+## Social Media Content
+
