@@ -27,6 +27,7 @@ description
 description
 <br>
 <a href="https://www.youtube.com/watch?v=DPLI5w6BzUc&feature=youtu.be"><img src= "https://prep.benjamintelford.com/img/runawayshow.png" style="width:320px; height:188px; padding:3px"  title="Concert" alt="Concert"></a>
+<a href="insert video url here"><img src= "https://prep.benjamintelford.com/img/wedding.png" style="width:320px; height:188px; padding:3px"  title="Wedding" alt="Wedding"></a>
 
 ## Social Media Content
 description
