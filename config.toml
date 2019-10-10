@@ -35,11 +35,11 @@ paginate = 10
     url  = "/aboutus/"
     weight = 2
 
-[[menu.main]]
-    identifier = "DemoReel"
-    name = "Demo Reel"
-    url  = "/demoreel/"
-    weight = 3
+#[[menu.main]]
+#    identifier = "DemoReel"
+#    name = "Demo Reel"
+#    url  = "/demoreel/"
+#    weight = 3
 
 [[menu.main]]
     identifier = "contact"
