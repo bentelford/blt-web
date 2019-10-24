@@ -1,9 +1,10 @@
 weight: 2
 title: "THORNS"
-description: "<p>6 parts. 6 journeys. 6 spoken words.
-<br>
-This video series tells a story of struggle, growth, joy, and hope. 
-<br>
-Out now on youtube.
-</p>"
+description: >
+  <ul class="list-style-none">
+     <li>6 parts. 6 journeys. 6 spoken words.</li>
+     <li>This video series tells a story of struggle, growth, joy, and hope.</li>
+      <li><a href="https://www.youtube.com/playlist?list=PLOUAgTysUxApFCHivEmHTcl885IIpBzbO"style="color:white">Out now on youtube.</a></li>
+     <li></li>
+   </ul>
 image: "img/carousel/template-homepage.png"
