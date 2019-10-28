@@ -1,4 +1,4 @@
-baseurl = "https://prep.benjamintelford.com/"
+baseurl = "https://benjamintelford.com/"
 title = "Ben Telford Visuals"
 theme = "hugo-universal-theme"
 themesDir = "themes"
