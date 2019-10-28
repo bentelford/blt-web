@@ -19,7 +19,7 @@ title="Juic3boy - Cornerstore" alt="Cornerstore"></a>
 Weddings, Parties, Shows, and everything in between. Let us capture your most precious moments!
 <br>
 <a href="https://www.youtube.com/watch?v=DPLI5w6BzUc&feature=youtu.be"><img src= "https://benjamintelford.com/img/runawayshow.png" style="width:320px; height:188px; padding:3px"  title="Concert" alt="Concert"></a>
-<a href="https://youtu.be/sRs1rB2yjVw"><img src= "https://benjamintelford.com/img/wedding.png" style="width:320px; height:188px; padding:3px"  title="Wedding" alt="Wedding"></a>
+<a href="https://drive.google.com/file/d/1GcUT0_rqYbSN9ZXaJ87RatUTMnjDiSw-/view?usp=sharing"><img src= "https://benjamintelford.com/img/wedding.png" style="width:320px; height:188px; padding:3px"  title="Wedding" alt="Wedding"></a>
 
 ## Social Media Content
 Promote your brand with engaging visuals which complement your custom social media layout.
