@@ -13,5 +13,5 @@ Please allow at least 48 hours for an inquiry response.
 <br>
 <p align="center">Not sure what to include in your email?
 <br>
-Click <a href="https://prep.benjamintelford.com/img/Bookings-Inquiries-Guide.pdf">**HERE**</a> for our Bookings & Inquiries Guide</p>
+Click <a href="https://benjamintelford.com/img/Bookings-Inquiries-Guide.pdf">**HERE**</a> for our Bookings & Inquiries Guide</p>
 
