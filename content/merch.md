@@ -33,10 +33,9 @@ Crewneck Sweatshirt
 <a href="https://benjamintelford.com/img//merch/SWEATER BLACK ON DUSTY PINK.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER BLACK ON DUSTY PINK.jpg" style="width:257px; height:300px; padding:3px"  title="Black on Dusty Pink" alt="Black on Dusty Pink"></a>
 <a href="https://benjamintelford.com/img//merch/SWEATER WHITE ON DUSTY PINK.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER WHITE ON DUSTY PINK.jpg" style="width:257px; height:300px; padding:3px"  title="White on Dusty Pink" alt="White on Dusty Pink"></a>
 <a href="https://benjamintelford.com/img//merch/SWEATER BLACK ON BONE.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER BLACK ON BONE.jpg" style="width:257px; height:300px; padding:3px"  title="Black on Bone" alt="Black on Bone"></a>
-<a href="https://benjamintelford.com/img//merch/SWEATER BLACK ON BONE.jpg"><img src= "https://benjamintelford.com/img//merch/HERSWEATER BLACK ON BONEE.jpg" style="width:257px; height:300px; padding:3px"  title="White on Green" alt="White on Green"></a>
-<a href="https://benjamintelford.com/img//merch/SWEATER BLACK ON BONE.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER BLACK ON BONE.jpg" style="width:257px; height:300px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
-<a href="https://benjamintelford.com/img//merch/HERE.jpg"><img src= "https://benjamintelford.com/img//merch/HERE.jpg" style="width:257px; height:300px; padding:3px"  title="Yellow" alt="Yellow"></a>
-<a href="https://benjamintelford.com/img//merch/HERE.jpg"><img src= "https://benjamintelford.com/img//merch/HERE.jpg" style="width:257px; height:300px; padding:3px"  title="Yellow" alt="Yellow"></a>
+<a href="https://benjamintelford.com/img//merch/SWEATER WHITE ON GREEN.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER WHITE ON GREEN.jpg" style="width:257px; height:300px; padding:3px"  title="White on Green" alt="White on Green"></a>
+<a href="https://benjamintelford.com/img//merch/SWEATER WHITE ON MAROON.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER WHITE ON MAROON.jpg" style="width:257px; height:300px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
+<a href="https://benjamintelford.com/img//merch/SWEATER WHITE ON NAVY.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER WHITE ON NAVY.jpg" style="width:257px; height:300px; padding:3px"  title="White on Navy" alt="White on Navy"></a>
 
 
 <a href="https://benjamintelford.com/img//merch/HERE.jpg"><img src= "https://benjamintelford.com/img//merch/HERE.jpg" style="width:257px; height:300px; padding:3px"  title="Yellow" alt="Yellow"></a>
