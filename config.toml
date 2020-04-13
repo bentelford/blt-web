@@ -48,6 +48,12 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    identifier = "merch"
+    name = "Merch"
+    url  = "/MERCH/"
+    weight = 5    
+
+[[menu.main]]
     identifier = "Services"
     name = "Services"
     url  = "/services/"
