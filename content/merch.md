@@ -13,7 +13,8 @@ keywords = ["Merch","Clothing","Merchandise"]
 <br>
 
 <br>
-<a href="https://benjamintelford.com/img//merch/TELFORD RETRO HOODIE WIDE.jpg"><img src= "https://benjamintelford.com/img//merch/TELFORD RETRO HOODIE WIDE.jpg" style="width:700px; height:350px; padding:3px"  title="Red on Grey" alt="Red on Grey"></a>
+<a href="https://benjamintelford.com/img//merch/HOODIE RED ON GREY.jpg"><img src= "https://benjamintelford.com/img//merch/HOODIE RED ON GREY.jpg" style="width:300px; height:350px; padding:3px"  title="Red on Grey" alt="Red on Grey"></a>
+<a href="https://benjamintelford.com/img//merch/SWEATER GRID.jpg"><img src= "https://benjamintelford.com/img//merch/SWEATER GRID.jpg" style="width:350px; height:350px; padding:3px"  title="Red on Grey" alt="Red on Grey"></a>
 
 <br>
 <b> "TELFORD RETRO" Crewneck Sweatshirt <b>
