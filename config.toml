@@ -59,11 +59,11 @@ paginate = 10
     url  = "/services/"
     weight = 1
 
-    [[menu.main]]
-    identifier = "tr_hoodie"
-    name = "tr_hoodie"
-    url  = "/tr_hoodie/"
-    weight = 6    
+   # [[menu.main]]
+    #identifier = "tr_hoodie"
+    #name = "tr_hoodie"
+    #url  = "/tr_hoodie/"
+    #weight = 6    
 
 # Top bar social links menu
 
