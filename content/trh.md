@@ -12,9 +12,19 @@ Characterized by a combination of quality fabric, colors, and high quality produ
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
 <br>
-### 75.00 CAD 
+### 80.00 CAD 
 <br>
-
+10 oz (330 gm) cotton/polyester blend 3-end fleece
+<br>
+ring spun cotton
+<br>
+Solid Colors: 70% Cotton/30% Polyester with 100% cotton 32 singles face yarn for supreme printability and softness
+Heather Colors: 52% Cotton/48% Polyester (Charcoal Heather, Gunmetal Heather, Grey Heather)
+Camo Colors: 75% Cotton/25% Polyester with 100% cotton 32 singles face yarn (Forest Camo, Black Camo, Tiger Camo, Army Camo & Snow Camo)
+Safety Colors: 52% Cotton/48% Polyester overall fabric content with 65% Polyester/35% Cotton face yarns (Safety Yellow, Safety Orange)
+<br>
+<br>
+<br>
 <br>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg" style="width:300px; height:350px; padding:3px"  title="Black on Saddle" alt="Black on Saddle"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0P.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0P.jpg" style="width:300px; height:350px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
