@@ -14,7 +14,7 @@ Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nic
 waistband.
 <br>
 <br>
-### 80.00 CAD
+## 80.00 CAD
 <a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:48px; padding:3px"  title="Order Now" alt="Order Now"></a>
 **including FREE delivery**
 <br>
