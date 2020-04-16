@@ -14,13 +14,15 @@ waistband.
 <br>
 ### 80.00 CAD 
 <br>
-10 oz (330 gm) cotton/polyester blend 3-end fleece
+• 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
-ring spun cotton
+• ring spun cotton
 <br>
-Solid Colors: 70% Cotton/30% Polyester
-Grey Colors: 52% Cotton/48% Polyester 
-Safety Colors: 52% Cotton/48% Polyester
+• Solid Colors: 70% Cotton/30% Polyester
+<br>
+• Grey Colors: 52% Cotton/48% Polyester
+<br>
+• Safety Colors: 52% Cotton/48% Polyester
 <br>
 <br>
 <br>
