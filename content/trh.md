@@ -28,6 +28,8 @@ waistband.
 <br>
 • Safety Colors: 52% Cotton/48% Polyester
 <br>
+• NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
+<br>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
 <br>
