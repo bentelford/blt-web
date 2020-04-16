@@ -33,7 +33,7 @@ waistband.
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:87px; padding:0px"  title="Order Now" alt="Order Now"></a>
+<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
