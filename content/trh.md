@@ -16,6 +16,7 @@ waistband.
 <br>
 ## 80.00 CAD
 <a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:48px; padding:3px"  title="Order Now" alt="Order Now"></a>
+<br>
 **including FREE delivery**
 <br>
 <br>
