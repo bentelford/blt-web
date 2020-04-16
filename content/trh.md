@@ -13,8 +13,7 @@ Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nic
 waistband.
 <br>
 <br>
-### 80.00 CAD 
-**including FREE delivery**
+<a ### 80.00 CAD a> **including FREE delivery**
 <br>
 <br>
 <br>
