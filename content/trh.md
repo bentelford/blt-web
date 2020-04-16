@@ -12,7 +12,7 @@ Characterized by a combination of quality fabric, colors, and high quality produ
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
 <br>
-### 80.00 CAD *(including FREE delivery)*
+### 80.00 CAD <*(including FREE delivery)*>
 <br>
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
@@ -28,7 +28,7 @@ waistband.
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
 <br>
-<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">*Sizing Diagram*</a>
+<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">Sizing Diagram</a>
 <br>
 <br>
 <br>
