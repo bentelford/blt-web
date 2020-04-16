@@ -13,7 +13,7 @@ Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nic
 waistband.
 <br>
 ### 80.00 CAD 
-+ FREE Delivery
+(including FREE Delivery)
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
