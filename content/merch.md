@@ -5,7 +5,7 @@ keywords = ["Merch","Clothing","Merchandise"]
 +++
 
 <br>
-<a href="https://benjamintelford.com/trh"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TRHwebsitewide.jpg" style="width:500px; height:333px; padding:3px"  title="Telford Retro Hoodie" alt="Telford Retro Hoodie"></a>
+<a href="https://benjamintelford.com/trh"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TRHwebsiteSQUARE.jpg" style="width:300px; height:300px; padding:3px"  title="Telford Retro Hoodie" alt="Telford Retro Hoodie"></a>
 <br>
 *COMING SUMMER 2020*
 <br>
