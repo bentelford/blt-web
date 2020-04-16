@@ -15,13 +15,14 @@ waistband.
 <br>
 <br>
 ## 80.00 CAD
-## ORDER
-
+<br>
+<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:48px; padding:3px"  title="Order Now" alt="Order Now"></a>
 <br>
 **including FREE delivery**
 <br>
+
 <br>
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:48px; padding:3px"  title="Order Now" alt="Order Now"></a>
+
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
