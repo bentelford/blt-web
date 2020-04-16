@@ -15,7 +15,6 @@ waistband.
 <br>
 <br>
 ## 80.00 CAD
-<br>
 **including FREE delivery**
 <br>
 <br>
