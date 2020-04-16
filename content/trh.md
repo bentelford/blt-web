@@ -28,8 +28,10 @@ waistband.
 • Safety Colors: 52% Cotton/48% Polyester
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg"><img src= "https://benjamintelford.com/img/merch/sizingdiagram.jpg" style="width:400px; height:272px; padding:3px"  title="Black on Saddle" alt="Black on Saddle"></a>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
+<br>
+<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">**Sizing Diagram**</a>
+<br>
 <br>
 <br>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg" style="width:300px; height:350px; padding:3px"  title="Black on Saddle" alt="Black on Saddle"></a>
