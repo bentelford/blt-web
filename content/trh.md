@@ -15,7 +15,6 @@ waistband.
 ### 80.00 CAD 
 + FREE Delivery
 <br>
-<br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
 • ring spun cotton
