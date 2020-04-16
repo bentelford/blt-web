@@ -1,7 +1,7 @@
-   
-title = "TRH"
++++
+title = "trh"
 description = "Telford Retro Hoodie"
-keywords = ["Merch","Clothing","Merchandise"]
+keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 
 <br>
