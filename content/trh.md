@@ -12,7 +12,7 @@ Characterized by a combination of quality fabric, colors, and high quality produ
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
 <br>
-<b><br> "TELFORD RETRO" Hooodie <b><b>
+### "TELFORD RETRO" Hooodie <b><b>
 <br>
 
 <br>
