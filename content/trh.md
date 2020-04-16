@@ -15,13 +15,10 @@ waistband.
 <br>
 <br>
 ## 80.00 CAD
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:87px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 **including FREE delivery**
 <br>
-
 <br>
-
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
@@ -34,6 +31,9 @@ waistband.
 • Safety Colors: 52% Cotton/48% Polyester
 <br>
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
+<br>
+<br>
+<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:87px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
