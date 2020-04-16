@@ -18,6 +18,7 @@ waistband.
 **including FREE delivery**
 <br>
 <br>
+<a href="https://benjamintelford.com/img/merch/checkout.png"><img src= "https://benjamintelford.com/img/merch/assafaf" style="width:100px; height:26px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
@@ -32,7 +33,7 @@ waistband.
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
+<a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">Size Measurments</a>
 <br>
