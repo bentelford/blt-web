@@ -18,10 +18,9 @@ waistband.
 <br>
 ring spun cotton
 <br>
-Solid Colors: 70% Cotton/30% Polyester with 100% cotton 32 singles face yarn for supreme printability and softness
-Heather Colors: 52% Cotton/48% Polyester (Charcoal Heather, Gunmetal Heather, Grey Heather)
-Camo Colors: 75% Cotton/25% Polyester with 100% cotton 32 singles face yarn (Forest Camo, Black Camo, Tiger Camo, Army Camo & Snow Camo)
-Safety Colors: 52% Cotton/48% Polyester overall fabric content with 65% Polyester/35% Cotton face yarns (Safety Yellow, Safety Orange)
+Solid Colors: 70% Cotton/30% Polyester
+Grey Colors: 52% Cotton/48% Polyester 
+Safety Colors: 52% Cotton/48% Polyester
 <br>
 <br>
 <br>
