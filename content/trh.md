@@ -4,7 +4,7 @@ description = "Telford Retro Hoodie"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/trh.jpg" style="width:250px; height:182px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
+<img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/trh.png" style="width:250px; height:182px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
 <br>
 
 <br>
