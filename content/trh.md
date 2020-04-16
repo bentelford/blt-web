@@ -18,7 +18,7 @@ waistband.
 **including FREE delivery**
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/checkout.png"><img src= "https://benjamintelford.com/img/merch/assafaf" style="width:100px; height:26px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
+<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:100px; height:26px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
