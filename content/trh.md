@@ -1,5 +1,4 @@
    
-   /5x+++
 title = "TRH"
 description = "Telford Retro Hoodie"
 keywords = ["Merch","Clothing","Merchandise"]
