@@ -13,7 +13,7 @@ Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nic
 waistband.
 <br>
 ### 80.00 CAD 
-## (including FREE Delivery)
+## (including FREE delivery)
 <br>
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
@@ -27,6 +27,8 @@ waistband.
 • Safety Colors: 52% Cotton/48% Polyester
 <br>
 <br>
+<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg"><img src= "https://benjamintelford.com/img/merch/sizingdiagram.jpg" style="width:400px; height:272px; padding:3px"  title="Black on Saddle" alt="Black on Saddle"></a>
+<a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
 <br>
 <br>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHB0S.jpg" style="width:300px; height:350px; padding:3px"  title="Black on Saddle" alt="Black on Saddle"></a>
