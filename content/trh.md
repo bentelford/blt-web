@@ -5,15 +5,14 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 
 <br>
+
 <br>
-*COMING SUMMER 2020*
-<br>
-The Ben Telford Visuals Retro logo is embroidered into our premium ring-spun cotton 3-end fleece hoodie, achieving a smooth and comfortable fit.
+This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie, achieving a smooth and comfortable fit.
 Characterized by a combination of quality fabric, colors, and consistency in production, this is the perfect cozy fall/winter hoodie.
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
 <br>
-<b> "TELFORD RETRO" Hooodie <b>
+<b><br> "TELFORD RETRO" Hooodie <b><b>
 <br>
 
 <br>
