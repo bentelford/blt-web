@@ -13,7 +13,6 @@ Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nic
 waistband.
 <br>
 ### 80.00 CAD 
-<br>
 ##### (including FREE delivery)
 <br>
 <br>
@@ -30,7 +29,7 @@ waistband.
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Black on Peach" alt="Black on Peach"></a>
 <br>
-<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">**Sizing Diagram**</a>
+<a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">*Sizing Diagram*</a>
 <br>
 <br>
 <br>
