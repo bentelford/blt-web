@@ -21,7 +21,7 @@ waistband.
 <br>
 <br>
 <br>
-• Heavyweight hooded pullover sweatshirt.
+• Heavyweight hooded pullover sweatshirt
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
@@ -52,7 +52,7 @@ waistband.
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHO0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHO0B.jpg" style="width:250px; height:292px; padding:3px"  title="Orange on Black" alt="Orange on Black"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHR0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHR0B.jpg" style="width:250px; height:292px; padding:3px"  title="Red on Black" alt="Red on Black"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0R.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0R.jpg" style="width:250px; height:292px; padding:3px"  title="White on Red" alt="White on Red"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/White on Red.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/White on Red.jpg" style="width:250px; height:292px; padding:3px"  title="White on Orange" alt="White on Orange"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0R.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0R.jpg" style="width:250px; height:292px; padding:3px"  title="White on Orange" alt="White on Orange"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0BL.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHW0BL.jpg" style="width:250px; height:292px; padding:3px"  title="White on Blue" alt="White on Blue"></a>
 <br>
 <br>
