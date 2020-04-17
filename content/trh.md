@@ -8,7 +8,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie, achieving a smooth and comfortable fit.
+This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie.
 Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
@@ -59,3 +59,9 @@ waistband.
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHW0L.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHW0L.jpg" style="width:250px; height:292px; padding:3px"  title="White on Lavender" alt="White on Lavender"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHW0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TFHW0M.jpg" style="width:250px; height:292px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
 
+<br>
+<br>
+<br>
+*Note: To ensure that our products are of the highest quality possible, our garments are sourced from an experienced US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
+<br>
+To Order, please refer to <a href="https://benjamintelford.com/merchorder">**this page.**</a>
