@@ -8,10 +8,9 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-The classic Ben Telford Visuals design has been brought back from last years release and embroidered onto our premium ring-spun cotton 3-end fleece hoodie again.
-Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
-Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
-waistband.
+Looking to rep the brand from head to toe? In this new release, the classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton fleece sweatpants.
+Characterized by a combination of quality fabric, colors, and high quality production, you'll never want to take these off.
+Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic waistband, sewn eyelets, and 1x1 ribbing at ankle cuffs.
 <br>
 <br>
 ## 65.00 CAD 
