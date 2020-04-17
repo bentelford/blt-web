@@ -8,7 +8,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie.
+The retro Ben Telford Visuals design has been embroidered into our premium ring-spun cotton 3-end fleece hoodie.
 Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
 waistband.
