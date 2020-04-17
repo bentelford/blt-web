@@ -65,4 +65,5 @@ waistband.
 <br>
 <br>
 To order, please refer to <a href="https://benjamintelford.com/order">**this page.**</a>
+<br>
 To view other products, return to <a href="https://benjamintelford.com/merch">**MERCH.**</a>
