@@ -8,14 +8,13 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie.
-Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
-Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
-waistband.
+The retro Ben Telford Visuals design has been embroidered onto our timeless midweight crewneck sweatshirt.
+Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect year-round sweatshirt.
+Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband.
 <br>
 <br>
-## 80.00 CAD 
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
+## 45.00 CAD 
+<a href="https://benjamintelford.com/img/merch/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 *Including FREE delivery*
 <br>
