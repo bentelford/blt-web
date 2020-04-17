@@ -21,17 +21,21 @@ waistband.
 <br>
 <br>
 <br>
-• Heavyweight hooded pullover sweatshirt.
+• Midweight fleece sweatpants
 <br>
-• 10 oz (330 gm) cotton/polyester blend 3-end fleece
+• 8.5 oz. (280gm) cotton/polyester blend fleece with 32 Singles face yarn
 <br>
 • ring spun cotton
 <br>
-• Solid Colors: 70% Cotton/30% Polyester
+• Solid & Camo Colors: 80% Cotton/20% Polyester
 <br>
-• Grey Colors: 52% Cotton/48% Polyester
+• Grey Color: 52% Cotton/48% Polyester
 <br>
-• Safety Colors: 52% Cotton/48% Polyester
+• Elastic waistband with shoestring drawcord
+<br>
+• Back pocket & Jersey lined hand pockets
+<br>
+• Relaxed fit
 <br>
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
 <br>
