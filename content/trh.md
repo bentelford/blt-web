@@ -21,6 +21,8 @@ waistband.
 <br>
 <br>
 <br>
+• Heavyweight hooded pullover sweatshirt.
+<br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
 • ring spun cotton
