@@ -9,12 +9,13 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 **To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)* for each item you wish to purchase:
 <br>
 <br>
-• **Item code** (e.g. TRHW0B)
+• **Item code** *(e.g. TRHW0B)*
 <br>
 • **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
-• Solid Colors: 70% Cotton/30% Polyester
 <br>
+<br>
+Don't hesitate to <a href="https://benjamintelford.com/contact">reach out</a> with any questions regarding merch!
 • Grey Colors: 52% Cotton/48% Polyester
 <br>
 • Safety Colors: 52% Cotton/48% Polyester
