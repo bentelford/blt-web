@@ -15,13 +15,13 @@ waistband.
 <br>
 <br>
 ## 65.00 CAD 
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
+<a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 *Including FREE delivery*
 <br>
 <br>
 <br>
-• Heavyweight hooded pullover sweatshirt.
+• Heavyweight hooded pullover sweatshirt
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece
 <br>
@@ -69,3 +69,5 @@ waistband.
 To order, please refer to <a href="https://benjamintelford.com/order">**this page.**</a>
 <br>
 To view other products, return to <a href="https://benjamintelford.com/merch">**MERCH.**</a>
+<br>
+<br>

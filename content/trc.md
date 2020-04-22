@@ -14,7 +14,7 @@ Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband
 <br>
 <br>
 ## 45.00 CAD 
-<a href="https://benjamintelford.com/img/merch/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
+<a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 *Including FREE delivery*
 <br>
@@ -56,3 +56,5 @@ Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband
 To order, please refer to <a href="https://benjamintelford.com/order">**this page.**</a>
 <br>
 To view other products, return to <a href="https://benjamintelford.com/merch">**MERCH.**</a>
+<br>
+<br>
