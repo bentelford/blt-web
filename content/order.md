@@ -6,7 +6,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-**To place an order,** please **send the following information** to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)*:
+**To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)*:
 <br>
 <br>
 • item
