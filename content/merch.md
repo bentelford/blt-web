@@ -10,3 +10,6 @@ keywords = ["Merch","Clothing","Merchandise"]
 <a href="https://benjamintelford.com/tch"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic Hoodie" alt="Telford Classic Hoodie"></a>
 <a href="https://benjamintelford.com/tcs"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic Sweatpants" alt="Telford Classic Sweatpants"></a>
 <br>
+<br>
+<br>
+<a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
