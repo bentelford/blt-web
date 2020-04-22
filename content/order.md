@@ -3,9 +3,6 @@ title = "Order"
 description = "Merchandise Orders"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-<br>
-
-<br>
 **To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)* for each item you wish to purchase:
 <br>
 <br>
@@ -15,6 +12,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 <br>
 Once email/text order is recieved, you will be sent an invoice confirming the products and total cost. 
+<br>
 Payments are to be made through e-transfer, and must be sent before order is confirmed.
 <br>
 E-transfers are sent to **bent@benjamintelford.com**.
