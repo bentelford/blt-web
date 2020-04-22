@@ -4,24 +4,11 @@ description = "Merchandise Orders"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/trh.png" style="width:350px; height:255px; padding:3px"></a>
-<br>
 
 <br>
-This retro Ben Telford Visuals design is embroidered into our premium ring-spun cotton 3-end fleece hoodie.
-Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
-Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
-waistband.
+To place an order, please send the following information to us via email *(visuals@benjamintelford.com)* or text message *(343-204-1236)*:
 <br>
-<br>
-## 80.00 CAD 
-<a href="https://benjamintelford.com/img/merch/sasasa"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
-<br>
-*Including FREE delivery*
-<br>
-<br>
-<br>
-• 10 oz (330 gm) cotton/polyester blend 3-end fleece
+• item
 <br>
 • ring spun cotton
 <br>
