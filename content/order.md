@@ -6,12 +6,12 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 <br>
 
 <br>
-**To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)*:
+**To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)* for each item you wish to purchase:
 <br>
 <br>
-• item
+• **Item code** (e.g. TRHW0B)
 <br>
-• ring spun cotton
+• **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
 • Solid Colors: 70% Cotton/30% Polyester
 <br>
