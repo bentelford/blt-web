@@ -18,6 +18,8 @@ Payments are to be made through e-transfer, and must be sent before order is con
 E-transfers are sent to **bent@benjamintelford.com**.
 <br>
 <br>
+~~~~~~
+<br>
 <br>
 Don't hesitate to <a href="https://benjamintelford.com/contact">reach out</a> with any questions regarding merch!
 <br>
