@@ -14,13 +14,14 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 • **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
 <br>
-Once email/text order is recieved, you will be sent an invoice confirming the products and total cost. Payments are to be made through e-transfer, and orders will not be confirmed until payment is made.
+Once email/text order is recieved, you will be sent an invoice confirming the products and total cost. 
+Payments are to be made through e-transfer, and must be sent before order is confirmed.
 <br>
 E-transfers are sent to **bent@benjamintelford.com**.
 <br>
 <br>
-Don't hesitate to <a href="https://benjamintelford.com/contact">reach out</a> with any questions regarding merch!
 <br>
+Don't hesitate to <a href="https://benjamintelford.com/contact">reach out</a> with any questions regarding merch!
 <br>
 Thank you for supporting Ben Telford Visuals!
 <br>
