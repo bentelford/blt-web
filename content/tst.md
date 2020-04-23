@@ -3,39 +3,29 @@ title = "Telford Simple Tee"
 description = "Telford Simple Tee"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
+One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts have outstanding softness featuring the same unmatched comfort of our Special Blend fleece. With a standard fit, and made with ring-spun cotton/polyester blend, these premium tees lead the pack.
 <br>
 <br>
-
-<br>
-Looking to rep the brand from head to toe? In this new release, the classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton fleece sweatpants.
-Characterized by a combination of quality fabric, colors, and high quality production, you'll never want to take these off.
-Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic waistband, sewn eyelets, and 1x1 ribbing at ankle cuffs.
-<br>
-<br>
-## 65.00 CAD 
+## 25.00 CAD 
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 *Including FREE delivery*
 <br>
 <br>
 <br>
-• Midweight fleece sweatpants
+• 4.7 oz. (160 gm) 52% cotton/48% polyester blend jersey
 <br>
-• 8.5 oz. (280gm) cotton/polyester blend fleece with 32 Singles face yarn
+• Standard fit
 <br>
-• ring spun cotton
+• Ring spun cotton
 <br>
-• Solid & Camo Colors: 80% Cotton/20% Polyester
+• 30 singles yarn count
 <br>
-• Grey Color: 52% Cotton/48% Polyester
+• Side-seamed
 <br>
-• Elastic waistband with shoestring drawcord
+• Taped neck and shoulders
 <br>
-• Back pocket & Jersey lined hand pockets
-<br>
-• Relaxed fit
-<br>
-• NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
+• Double-needle sleeve and bottom hem
 <br>
 <br>
 <img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/BTVstretchlogo.png" style="width:500px; height:74px; padding:3px"></a>
