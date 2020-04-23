@@ -38,14 +38,13 @@ Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic wai
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
 <br>
 <br>
+<img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/BTVstretchlogo.png" style="width:500px; height:74px; padding:3px"></a>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingdiagram.jpg">Size Measurments</a>
 <br>
-<br>
-<br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/BTVstretchlogo.png" style="width:500px; height:74px; padding:3px"></a>
+
 <br>
 <br>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White on Black" alt="White on Black"></a>
