@@ -4,7 +4,7 @@ description = "Telford Simple Tee"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/tst.png" style="width:300px; height:350px; padding:3px"></a>
+<img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/BTVstretchlogo.png" style="width:600px; height:89px; padding:3px"></a>
 <br>
 
 <br>
