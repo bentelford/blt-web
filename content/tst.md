@@ -13,6 +13,8 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <br>
 <br>
 <br>
+• Screen printed logo
+<br>
 • 4.7 oz. (160 gm) 52% cotton/48% polyester blend jersey
 <br>
 • Standard fit
