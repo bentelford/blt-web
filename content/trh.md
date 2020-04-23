@@ -65,7 +65,7 @@ waistband.
 
 <br>
 <br>
-*Note: To ensure that our products are of the highest quality possible, our garments are sourced from a US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
+*Note: To ensure that our products are of the highest quality possible, our garments are sourced from a US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in / screen printed. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
 <br>
 <br>
 To order, please refer to <a href="https://benjamintelford.com/order">**this page.**</a>

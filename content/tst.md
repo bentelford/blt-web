@@ -42,7 +42,7 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <a href="https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White on Black" alt="White on Black"></a>
 <br>
 <br>
-*Note: To ensure that our products are of the highest quality possible, our garments are sourced from a US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
+*Note: To ensure that our products are of the highest quality possible, our garments are sourced from a US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in / screen printed. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
 <br>
 <br>
 To order, please refer to <a href="https://benjamintelford.com/order">**this page.**</a>
