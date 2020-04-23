@@ -20,6 +20,8 @@ Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic wai
 <br>
 <br>
 <br>
+• Embroidery stiched logo
+<br>
 • Midweight fleece sweatpants
 <br>
 • 8.5 oz. (280gm) cotton/polyester blend fleece with 32 Singles face yarn

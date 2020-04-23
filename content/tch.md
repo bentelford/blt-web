@@ -21,6 +21,8 @@ waistband.
 <br>
 <br>
 <br>
+• Embroidery stiched logo
+<br>
 • Heavyweight hooded pullover sweatshirt
 <br>
 • 10 oz (330 gm) cotton/polyester blend 3-end fleece

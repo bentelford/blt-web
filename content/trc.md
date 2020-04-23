@@ -20,6 +20,8 @@ Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband
 <br>
 <br>
 <br>
+• Embroidery stiched logo
+<br>
 • 8.5 oz (280 gm) cotton/polyester blend fleece
 <br>
 • split stitch double needle sewing on all seams
