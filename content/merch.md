@@ -5,11 +5,10 @@ keywords = ["Merch","Clothing","Merchandise"]
 +++
 
 <br>
-<a href="https://benjamintelford.com/trh"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO -  HOODIE/TRHwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Retro Hoodie" alt="Telford Retro Hoodie"></a>
-<a href="https://benjamintelford.com/trc"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO - CREWNECK SWEATER/TRCwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Retro Crewneck" alt="Telford Retro Crewneck"></a>
-<a href="https://benjamintelford.com/tch"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/TCHwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic Hoodie" alt="Telford Classic Hoodie"></a>
-<a href="https://benjamintelford.com/tcs"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic Sweatpants" alt="Telford Classic Sweatpants"></a>
-<a href="https://benjamintelford.com/tst"><img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/TSTwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Simple Tee" alt="Telford Simple Tee"></a>
+<a href="https://benjamintelford.com/telfordretro"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Retro" alt="Telford Retro"></a>
+<a href="https://benjamintelford.com/telfordclassic"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic" alt="Telford Classic"></a>
+<a href="https://benjamintelford.com/telfordsweatpants"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATS/TSwebsiteSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Classic Sweatpants" alt="Telford Classic Sweatpants"></a>
+<a href="https://benjamintelford.com/telfordsignature"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSIGSQUARE.jpg" style="width:350px; height:350px; padding:3px"  title="Telford Signature" alt="Telford Signature"></a>
 <br>
 <br>
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:66px; padding:0px"  title="Order Now" alt="Order Now"></a>
