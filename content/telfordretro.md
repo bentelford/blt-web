@@ -4,10 +4,6 @@ description = "Telford Retro Crewneck"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD RETRO - CREWNECK SWEATER/trc.png" style="width:350px; height:255px; padding:3px"></a>
-<br>
-
-<br>
 The retro Ben Telford Visuals design has been embroidered onto our timeless midweight crewneck sweatshirt and heavyweight hoodie.
 Characterized by a combination of quality fabric, colors, and high quality production, these are the perfect year-round tops.
 Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband.
