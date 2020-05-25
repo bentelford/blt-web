@@ -8,7 +8,7 @@ Characterized by a combination of quality fabric, colors, and high quality produ
 Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic waistband, sewn eyelets, and 1x1 ribbing at ankle cuffs.
 <br>
 <br>
-## 65.00 CAD 
+## ??.00 CAD 
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
 *Including FREE delivery*
