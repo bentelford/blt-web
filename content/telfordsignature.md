@@ -5,7 +5,9 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 One touch and you will be hooked. The Special Blend "Telford Signature" T-Shirts have outstanding softness featuring the same unmatched comfort of our Special Blend fleece. With a standard fit, and made with ring-spun cotton/polyester blend, these premium tees lead the pack. Signature design is screen printed directly onto the front.
 <br>
-Looking for something warmer? Try our premium ring-spun cotton heavy weight Hoodies with the Signature embroidered into the front.
+<br>
+Looking for something warmer? Try our premium ring-spun cotton heavy weight Hoodies with the Signature embroidered into the front. Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
+waistband.
 <br>
 ## 30.00 CAD (T-SHIRT) / 60.00 CAD (HOODIE)
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>

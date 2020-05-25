@@ -1,5 +1,5 @@
 +++
-title = "Telford Classic"
+title = "Telford Classic Lineup"
 description = "Telford Classic"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++

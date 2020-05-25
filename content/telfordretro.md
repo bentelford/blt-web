@@ -1,6 +1,6 @@
 +++
-title = "Telford Retro Crewneck"
-description = "Telford Retro Crewneck"
+title = "Telford Retro Lineup"
+description = "Telford Retro"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
