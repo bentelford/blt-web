@@ -42,9 +42,13 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White on Black" alt="White on Black"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSW0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0M.jpg" style="width:300px; height:350px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TStW0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TStW0M.jpg" style="width:300px; height:350px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0S.jpg" style="width:300px; height:350px; padding:3px"  title="White on Saddle" alt="White on Saddle"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0A.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0A.jpg" style="width:300px; height:350px; padding:3px"  title="White on Army Green" alt="White on Army Green"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0L.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0L.jpg" style="width:300px; height:350px; padding:3px"  title="White on Lavender" alt="White on Lavender"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0R.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0R.jpg" style="width:300px; height:350px; padding:3px"  title="White on Royal Blue" alt="White on Royal Blue"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0N.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0N.jpg" style="width:300px; height:350px; padding:3px"  title="White on Navy" alt="White on Navy"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
+
 
 <br>
 <br>
