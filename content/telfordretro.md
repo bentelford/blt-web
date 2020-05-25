@@ -58,7 +58,7 @@ Complete with a generous fit and 1x1 ribbing at the cuffs, collar, and waistband
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRCW0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRCW0G.jpg" style="width:250px; height:292px; padding:3px"  title="White on Green" alt="White on Green"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRHB0W.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRHB0W.jpg" style="width:250px; height:292px; padding:3px"  title="Black on White" alt="Black on White"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRHW0N.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRHW0N.jpg" style="width:250px; height:292px; padding:3px"  title="White on Navy" alt="White on Navy"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0P.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0P.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Pink" alt="Black on Pink"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD RETRO/TRCB0S.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
 
