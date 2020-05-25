@@ -3,11 +3,6 @@ title = "Telford Classic Sweatpants"
 description = "Telford Classic Sweatpants"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-<br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/tcs.png" style="width:350px; height:255px; padding:3px"></a>
-<br>
-
-<br>
 Looking to rep the brand from head to toe? In this new release, the classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton fleece sweatpants.
 Characterized by a combination of quality fabric, colors, and high quality production, you'll never want to take these off.
 Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic waistband, sewn eyelets, and 1x1 ribbing at ankle cuffs.
@@ -48,10 +43,10 @@ Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic wai
 <br>
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSB0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSB0G.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Grey" alt="Black on Grey"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0B.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black" alt="White on Black"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0BC.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0BC.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black Camo" alt="White on Black Camo"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0C.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - SWEATPANTS/TCSW0C.jpg" style="width:250px; height:292px; padding:3px"  title="White on Camo" alt="White on Camo"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSB0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSB0G.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Grey" alt="Black on Grey"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0B.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black" alt="White on Black"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0BC.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0BC.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black Camo" alt="White on Black Camo"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0C.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0C.jpg" style="width:250px; height:292px; padding:3px"  title="White on Camo" alt="White on Camo"></a>
 
 <br>
 <br>
