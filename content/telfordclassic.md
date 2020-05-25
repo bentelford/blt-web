@@ -53,7 +53,6 @@ waistband.
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHB0P.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHB0P.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Pink" alt="Black on Pink"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0L.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0L.jpg" style="width:250px; height:292px; padding:3px"  title="White on Lavender" alt="White on Lavender"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0BL.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0BL.jpg" style="width:250px; height:292px; padding:3px"  title="White on Blue" alt="White on Blue"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
 
 <br>
 *Note: To ensure that our products are of the highest quality possible, our garments are sourced from a US supplier. Once they arrive in Ottawa, they are then sent to a local embroider to have the designs stitched in / screen printed. Due to this, (and to keep prices as low as possible) orders are sent out in groups, and products will usually take 4-6 weeks between order and delivery.*
