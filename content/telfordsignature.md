@@ -5,7 +5,6 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts have outstanding softness featuring the same unmatched comfort of our Special Blend fleece. With a standard fit, and made with ring-spun cotton/polyester blend, these premium tees lead the pack.
 <br>
-<br>
 ## 30.00 CAD (T-SHIRT) / 60.00 CAD (HOODIE)
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <br>
@@ -27,8 +26,6 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <br>
 • NOTE: Sizing runs slightly large. For example: Medium fits 6’2” 170 lb individual.
 <br>
-<br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD SIMPLE - TEE/BTVstretchlogo.png" style="width:500px; height:74px; padding:3px"></a>
 <br>
 <a href="https://benjamintelford.com/img/merch/sizingchart.jpg"><img src= "https://benjamintelford.com/img/merch/sizingchart.jpg" style="width:500px; height:51px; padding:3px"  title="Sizing Chart" alt="Sizing Chart"></a>
 <br>
