@@ -4,10 +4,6 @@ description = "Telford Classic"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
 <br>
-<img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC - HOODIE/tch.png" style="width:350px; height:255px; padding:3px"></a>
-<br>
-
-<br>
 The Classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton 3-end fleece hoodie.
 Characterized by a combination of quality fabric, colors, and high quality production, this is the perfect cozy fall/winter hoodie.
 Complete with a generous fit, fleece lined hood, heavy gauge round drawcord, nickel eyelets, and 1x1 ribbing at cuffs and
