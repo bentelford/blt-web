@@ -40,6 +40,11 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0G.jpg" style="width:300px; height:350px; padding:3px"  title="White on Grey" alt="White on Grey"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White on Black" alt="White on Black"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White on Black" alt="White on Black"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSW0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0M.jpg" style="width:300px; height:350px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TStW0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TStW0M.jpg" style="width:300px; height:350px; padding:3px"  title="White on Maroon" alt="White on Maroon"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
 
 <br>
 <br>
