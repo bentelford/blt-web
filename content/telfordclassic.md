@@ -50,9 +50,9 @@ waistband.
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0R.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0R.jpg" style="width:250px; height:292px; padding:3px"  title="White on Red" alt="White on Red"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHM0M.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHM0M.jpg" style="width:250px; height:292px; padding:3px"  title="Maroon on Maroon/Grey" alt="Maroon on Maroon/Grey"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0O.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0O.jpg" style="width:250px; height:292px; padding:3px"  title="White on Orange" alt="White on Orange"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHB0P.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHB0P.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Pink" alt="Black on Pink"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0L.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0L.jpg" style="width:250px; height:292px; padding:3px"  title="White on Lavender" alt="White on Lavender"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0BL.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0BL.jpg" style="width:250px; height:292px; padding:3px"  title="White on Blue" alt="White on Blue"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD CLASSIC/TCHW0B.jpg" style="width:250px; height:292px; padding:3px"  title="Black" alt="Black"></a>
 
 <br>
