@@ -43,10 +43,10 @@ Complete with a relaxed fit, back pocket, jersey lined hand pockets, elastic wai
 <br>
 <br>
 <br>
-<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSB0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSB0G.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Grey" alt="Black on Grey"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0B.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black" alt="White on Black"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0BC.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0BC.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black Camo" alt="White on Black Camo"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0C.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATPANTS/TCSW0C.jpg" style="width:250px; height:292px; padding:3px"  title="White on Camo" alt="White on Camo"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSB0G.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSB0G.jpg" style="width:250px; height:292px; padding:3px"  title="Black on Grey" alt="Black on Grey"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0B.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black" alt="White on Black"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0BC.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0BC.jpg" style="width:250px; height:292px; padding:3px"  title="White on Black Camo" alt="White on Black Camo"></a>
+<a href="https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0C.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SWEATS/TCSW0C.jpg" style="width:250px; height:292px; padding:3px"  title="White on Camo" alt="White on Camo"></a>
 
 <br>
 <br>
