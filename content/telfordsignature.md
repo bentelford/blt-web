@@ -1,9 +1,11 @@
 +++
-title = "Telford Simple Tee"
-description = "Telford Simple Tee"
+title = "Telford Signature Lineup"
+description = "Telford Signature"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts have outstanding softness featuring the same unmatched comfort of our Special Blend fleece. With a standard fit, and made with ring-spun cotton/polyester blend, these premium tees lead the pack.
+One touch and you will be hooked. The Special Blend "Telford Signature" T-Shirts have outstanding softness featuring the same unmatched comfort of our Special Blend fleece. With a standard fit, and made with ring-spun cotton/polyester blend, these premium tees lead the pack. Signature design is screen printed directly onto the front.
+<br>
+Looking for something warmer? Try our premium ring-spun cotton heavy weight Hoodies with the Signature embroidered into the front.
 <br>
 ## 30.00 CAD (T-SHIRT) / 60.00 CAD (HOODIE)
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:150px; height:50px; padding:0px"  title="Order Now" alt="Order Now"></a>
@@ -47,7 +49,6 @@ One touch and you will be hooked. The Special Blend "Telford Simple" T-Shirts ha
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0L.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0L.jpg" style="width:300px; height:350px; padding:3px"  title="White on Lavender" alt="White on Lavender"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0R.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSHW0R.jpg" style="width:300px; height:350px; padding:3px"  title="White on Royal Blue" alt="White on Royal Blue"></a>
 <a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0N.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0N.jpg" style="width:300px; height:350px; padding:3px"  title="White on Navy" alt="White on Navy"></a>
-<a href="https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg"><img src= "https://benjamintelford.com/img/merch/TELFORD SIGNATURE/TSTW0B.jpg" style="width:300px; height:350px; padding:3px"  title="White" alt="White"></a>
 
 
 <br>
