@@ -6,7 +6,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 **To place an order,** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)* for each item you wish to purchase:
 <br>
 <br>
-• **Item code** *(e.g. TRHW0B)*
+• **Item code** *(e.g. TRHW0B)* or screenshot
 <br>
 • **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
