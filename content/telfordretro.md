@@ -3,6 +3,8 @@ title = "Telford Retro Lineup"
 description = "Telford Retro"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
+<img src= "https://benjamintelford.com/img/merch/retrobanner.jpg" style="width:548px; height:300px; padding:3px">
+<br>
 <br>
 The retro Ben Telford Visuals design has been embroidered onto our timeless midweight crewneck sweatshirt and heavyweight hoodie.
 Characterized by a combination of quality fabric, colors, and high quality production, these are the perfect year-round tops.

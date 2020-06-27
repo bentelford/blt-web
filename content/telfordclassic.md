@@ -3,7 +3,7 @@ title = "Telford Classic Lineup"
 description = "Telford Classic"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-<img src= "https://benjamintelford.com/img/merch/clscbanner.jpg" style="width:366px; height:200px; padding:3px">
+<img src= "https://benjamintelford.com/img/merch/clscbanner.jpg" style="width:548px; height:300px; padding:3px">
 <br>
 <br>
 The Classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton 3-end fleece hoodie.
