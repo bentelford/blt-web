@@ -3,7 +3,7 @@ title = "Telford Classic Sweatpants"
 description = "Telford Classic Sweatpants"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-<img src= "https://benjamintelford.com/img/merch/clscbanner.jpg" style="width:464px; height:300px; padding:3px">
+<img src= "https://benjamintelford.com/img/merch/pntbanner.jpg" style="width:464px; height:300px; padding:3px">
 <br>
 <br>
 Looking to rep the brand from head to toe? In this new release, the classic Ben Telford Visuals design has been embroidered onto our premium ring-spun cotton fleece sweatpants.
