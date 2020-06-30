@@ -8,7 +8,7 @@ keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 through **EMAIL** *(visuals@benjamintelford.com)* or **TEXT** *(343-204-1236)* for each item you wish to purchase:
 <br>
 #### • **Item code(s)** *(e.g. TRHW0B)* or screenshot
-#### • **Size(s)** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
+#### • **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
 <br>
 Once email/text order is recieved, you will be sent an invoice confirming the products and total cost. 
