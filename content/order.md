@@ -3,12 +3,15 @@ title = "Order"
 description = "Merchandise Orders"
 keywords = ["Merch","Merchandise","Ben Telford Visuals Merch",]
 +++
-***To place an order,*** please send the following information to us via **email** *(visuals@benjamintelford.com)* or **text message** *(343-204-1236)* for each item you wish to purchase:
+### **To place an order,** please send the following information:
 <br>
 <br>
-• **Item code** *(e.g. TRHW0B)* or screenshot
+through **EMAIL** *(visuals@benjamintelford.com)* or **TEXT** *(343-204-1236)* for each item you wish to purchase:
 <br>
-• **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
+<br>
+## • **Item code** *(e.g. TRHW0B)* or screenshot
+<br>
+## • **Size** *(refer to <a href="https://benjamintelford.com/img/merch/sizingchart.jpg">sizing chart</a>)*
 <br>
 <br>
 Once email/text order is recieved, you will be sent an invoice confirming the products and total cost. 
