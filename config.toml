@@ -47,11 +47,11 @@ paginate = 10
     url  = "/contact/"
     weight = 4
 
-#[[menu.main]]
-#    identifier = "merch"
-#    name = "Merch"
-#    url  = "/MERCH/"
-#    weight = 5    
+[[menu.main]]
+    identifier = "merch"
+    name = "Merch"
+    url  = "/MERCH/"
+    weight = 5    
 
 [[menu.main]]
     identifier = "Services"
