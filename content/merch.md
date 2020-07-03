@@ -12,7 +12,7 @@ keywords = ["Merch","Clothing","Merchandise"]
 <a href="https://benjamintelford.com/order"><img src= "https://benjamintelford.com/img/merch/checkout.png" style="width:200px; height:66px; padding:0px"  title="Order Now" alt="Order Now"></a>
 <BR>
 <BR>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=mIkoNT4CnL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIkoNT4CnL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
