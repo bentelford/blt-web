@@ -6,19 +6,17 @@ keywords = ["services","music video","commercial","ottawa videography"]
 
 Ben Telford Visuals provides a wide variety of visual services to optimize your online presence and help you or your business grow. Listed below are the main services we offer. If you don't see the service you're looking for below, don't hesitate to <a href="https://benjamintelford.com/contact/">contact us</a>, as we're always interested in diversifying our portfolio.
 <br>
+<br>
+## Business Media Content Coverage
+Commercials, Instructional Videos, Promotions, and more! Now is the time to elevate your company’s online presence.
+<br>
 ## Music Videos
 With over 100 music videos produced in the last 2 years, there’s no better option than Ben Telford Visuals. Let us bring your song to life!
 <br>
-<iframe width="330" height="186" src="https://www.youtube.com/embed/8Mh17M9pOok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="330" height="186" src="https://www.youtube.com/embed/Iz-w_MedFio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="330" height="186" src="https://www.youtube.com/embed/5hVKFt-Abkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a href="https://www.youtube.com/watch?v=Pwp6mpKAE24"><img src= "https://benjamintelford.com/img/cornerstore.png" style="width:320px; height:188px; padding:3px" 
-title="Juic3boy - Cornerstore" alt="Cornerstore"></a>
-<a href="https://www.youtube.com/watch?v=Ko7WfV_g4oA"><img src= "https://benjamintelford.com/img/jacob.png" style="width:320px; height:188px; padding:3px"  title="c4bo - Mundo Apagado" alt="Mundo Apagado"></a>
 <br>
-
-## Event Coverage
-Weddings, Parties, Shows, and everything in between. Let us capture your most precious moments!
+<iframe width="335" height="189" src="https://www.youtube.com/embed/8Mh17M9pOok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="335" height="189" src="https://www.youtube.com/embed/Iz-w_MedFio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="335" height="189" src="https://www.youtube.com/embed/5hVKFt-Abkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <a href="https://www.youtube.com/watch?v=DPLI5w6BzUc&feature=youtu.be"><img src= "https://benjamintelford.com/img/runawayshow.png" style="width:320px; height:188px; padding:3px"  title="Concert" alt="Concert"></a>
 <a href="https://youtu.be/T0C6odyp9Tk"><img src= "https://benjamintelford.com/img/wedding.png" style="width:320px; height:188px; padding:3px"  title="Wedding" alt="Wedding"></a>
@@ -35,8 +33,8 @@ Do you have a story to tell? Let us help you capture it! From screenwriting, to 
 <a href="https://www.youtube.com/watch?v=4oW4tG7dreU"><img src= "https://benjamintelford.com/img/youngsoldier.png" style="width:320px; height:188px; padding:3px"  title="Young Soldier" alt="Young Soldier"></a>
 <a href="https://www.youtube.com/watch?v=g1_IuzkDxi4"><img src= "https://benjamintelford.com/img/bossman.png" style="width:320px; height:188px; padding:3px"  title="Bossman Documentary" alt="Bossman Documentary"></a>
 
-## Corporate Videography
-Commercials, Instructional Videos, Promotions, and more! Now is the time to elevate your company’s online presence.
+## Event Coverage
+Weddings, Parties, Shows, and everything in between. Let us capture your most precious moments!
 <br>
 <br>
 <br>
