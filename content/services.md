@@ -21,7 +21,6 @@ With over 100 music videos produced in the last 2 years, there’s no better opt
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Iz-w_MedFio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/5hVKFt-Abkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
 ## Event Coverage
 Weddings, Parties, Shows, and everything in between. Let us capture your most precious moments!
 <br>
@@ -31,4 +30,8 @@ Weddings, Parties, Shows, and everything in between. Let us capture your most pr
 <br>
 ## Films & Documentaries
 Do you have a story to tell? Let us help you capture it! From screenwriting, to direction, to cinematography, to post production, we’ve got you covered!
+<br>
+<br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/4oW4tG7dreU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/g1_IuzkDxi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
