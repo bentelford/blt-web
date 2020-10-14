@@ -8,7 +8,7 @@ Ben Telford Visuals provides a wide variety of visual services to optimize your 
 <br>
 <br>
 ## Corporate Media
-Commercials, Interviews, Promotions, and more! Now is the time to elevate your company’s online presence.
+Commercials, Interviews, Promotions, Real Estate, and more! Now is the time to elevate your company’s online presence.
 <br>
 <br>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/2smLYH1db7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
