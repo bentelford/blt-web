@@ -9,7 +9,6 @@ Ben Telford Visuals provides a wide variety of visual services to optimize your 
 <br>
 ##### Ready to get started? Send us an email!
 ####  visuals@benjamintelford.com
-Please allow at least 48 hours for an inquiry response.
 <br>
 ## Corporate Media
 Commercials, Interviews, Promotions, Real Estate, and more! Now is the time to elevate your company’s online presence.
