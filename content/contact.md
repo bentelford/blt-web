@@ -2,7 +2,7 @@
 title = "Contact"
 id = "contact"
 +++
-<img src="https://benjamintelford.com/img/contact1.jpg" alt="" style="width:150px;height:100px;">
+<img src="https://benjamintelford.com/img/contact1.jpg" alt="" style="width:125px;height:100px;">
 <img src="https://benjamintelford.com/img/contact2.jpg" alt="" style="width:150px;height:100px;">
 <img src="https://benjamintelford.com/img/contact3.jpg" alt="" style="width:150px;height:100px;">
 <img src="https://benjamintelford.com/img/contact4.jpg" alt="" style="width:150px;height:100px;">
