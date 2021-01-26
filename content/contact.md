@@ -2,11 +2,7 @@
 title = "Contact"
 id = "contact"
 +++
-<img src="https://benjamintelford.com/img/contact1.jpg" alt="" style="width:125px;height:100px;">
-<img src="https://benjamintelford.com/img/contact2.jpg" alt="" style="width:150px;height:100px;">
-<img src="https://benjamintelford.com/img/contact3.jpg" alt="" style="width:150px;height:100px;">
-<img src="https://benjamintelford.com/img/contact4.jpg" alt="" style="width:150px;height:100px;">
-<br>
+<img src="https://benjamintelford.com/img/contact1.jpg" alt="" style="width:100px;height:100px;">
 Are you looking to have Ben Telford Visuals involved with your next visual production? We're happy to answer any questions you may have regarding services, pricing, and bookings. Send us an email!
 <br>
 <br>
