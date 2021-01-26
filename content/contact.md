@@ -2,7 +2,8 @@
 title = "Contact"
 id = "contact"
 +++
-
+<img src="https://benjamintelford.com/img/sweater.jpg" alt="" style="width:500px;height:267px;">
+<br>
 Are you looking to have Ben Telford Visuals involved with your next visual production? We're happy to answer any questions you may have regarding services, pricing, and bookings. Send us an email!
 <br>
 <br>
