@@ -7,6 +7,12 @@ keywords = ["services","music video","commercial","ottawa videography"]
 Ben Telford Visuals provides a wide variety of visual services to optimize your online presence and help you or your business grow. Listed below are the main services we offer. If you don't see the service you're looking for below, don't hesitate to <a href="https://benjamintelford.com/contact/">contact us</a>, as we're always interested in diversifying our portfolio.
 <br>
 <br>
+Are you looking to have Ben Telford Visuals involved with your next visual production? We're happy to answer any questions you may have regarding services, pricing, and bookings. Send us an email!
+<br>
+<br>
+####  visuals@benjamintelford.com
+Please allow at least 48 hours for an inquiry response.
+<br>
 ## Corporate Media
 Commercials, Interviews, Promotions, Real Estate, and more! Now is the time to elevate your company’s online presence.
 <br>
