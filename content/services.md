@@ -8,7 +8,6 @@ Ben Telford Visuals provides a wide variety of visual services to optimize your 
 <br>
 <br>
 ##### Ready to get started? Send us an email!
-<br>
 ####  visuals@benjamintelford.com
 Please allow at least 48 hours for an inquiry response.
 <br>
